@@ -1,8 +1,13 @@
-# Android Starter Template 🚀
+# Android Pro Starter 🚀
+
+[![Buy on Gumroad](https://img.shields.io/badge/Buy%20on-Gumroad-FF69B4?style=for-the-badge&logo=gumroad)](https://gumroad.com/l/YOUR_PRODUCT_ID)
+[![CI](https://github.com/mapsize17/android-pro-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/mapsize17/android-pro-starter/actions/workflows/ci.yml)
 
 A **production-ready Android starter template** built with Google's recommended architecture — UDF-based MVVM with sealed UiState, multi-module Clean Architecture, and convention plugins for fast builds.
 
-Save **2+ weeks** of setup time. Clone → configure → ship.
+**Save 2+ weeks** of setup time. Clone → configure → ship.
+
+> 🛒 **[$39 — Buy Now](https://gumroad.com/l/YOUR_PRODUCT_ID)** — includes full source + lifetime updates
 
 ---
 
